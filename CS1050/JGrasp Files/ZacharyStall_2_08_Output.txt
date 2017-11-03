@@ -1,0 +1,25 @@
+This program uses an input file of mileage and the reimbursement amount.
+It stores the data into arrays.
+The program uses methods to perform operations on the arrays.
+Then it prints the information to the user on the console,
+and into an output file.
+
+   Mileage       Reimbursement
+   -------       -------------
+     250.6              $45.11
+      99.4              $17.89
+      -2.8               *****
+     999.4             $126.93
+     799.4             $124.91
+   1,899.8             $199.98
+       0.0               *****
+   1,300.2             $140.02
+   1,101.7             $139.20
+   3,333.3             $239.00
+
+Total amount of reimburesment:  $1,033.04
+Total amount of mileage:         9,783.8
+Average of reimburesment:         $129.13
+Average of mileage driven:        1223.0
+Total values processed:             10
+Total positive (mi) values:          8

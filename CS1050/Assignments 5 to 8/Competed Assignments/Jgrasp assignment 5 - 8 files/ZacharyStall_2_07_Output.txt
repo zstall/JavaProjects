@@ -1,0 +1,24 @@
+Name                  Grade      Message
+-------------------- ------- ---------------
+Light Karen L          70      Satisfactory      
+Fagan Bert Todd        99       OUTSTANDING       
+Antrim Forrest N       60           Failing           
+Camden Warren          73      Satisfactory      
+Mulicka Al B           80      Satisfactory      
+Lee Phoebe             99       OUTSTANDING       
+Bright Harry           75      Satisfactory      
+Garris Ted             92       OUTSTANDING       
+Benson Martyne         83      Satisfactory      
+Lloyd Jeanine D        71      Satisfactory      
+Leslie Bennie A        43           Failing           
+Brandt Leslie          40           Failing           
+Schulman David        100       OUTSTANDING       
+Worthington Dan        51           Failing           
+Hall Gus W             60           Failing           
+Prigeon Dale R         60           Failing           
+Fitzgibbons Rusty      96       OUTSTANDING       
+
+The number of grades processed is: 17
+The number of scores that are "Satisfactory": 6
+The average of the "Satisfacotry" Scores: 75.3%
+The average of all the scores: 73.6%

@@ -1,0 +1,24 @@
+GRADE REPORT
+Name                      Grade      Message
+
+___________________________________________
+Light Karen L	70.0	Okay
+Fagan Bert Todd	89.0	GREAT
+Antrim Forrest N	70.0	Okay
+Camden Warren	63.0	Poor
+Mulicka Al B	90.0	GREAT
+Lee Phoebe	89.0	GREAT
+Bright Harry	75.0	Okay
+Garris Ted	92.0	GREAT
+Benson Martyne	73.0	Okay
+Lloyd Jeanine D	81.0	Okay
+Leslie Bennie A	43.0	Poor
+Brandt Leslie	40.0	Poor
+Schulman David	100.0	GREAT
+Worthington Dan	52.0	Poor
+Hall Gus W	60.0	Poor
+Prigeon Dale R	50.0	Poor
+Fitzgibbons Rusty	95.0	GREAT
+# of names processed: 17
+# of grades in range 65 to 86: 5
+Average of grades in this range: 73.8
