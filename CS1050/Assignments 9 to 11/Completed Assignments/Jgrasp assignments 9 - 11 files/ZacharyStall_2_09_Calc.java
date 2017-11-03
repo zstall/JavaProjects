@@ -46,9 +46,9 @@ public class ZacharyStall_2_09_Calc {
    // Constructor (3-arg) - initialize grossPay to val1,
    // savingsRate to val2 and iraInvest to val3
    public ZacharyStall_2_09_Calc(double val1, double val2, double val3) { 
-     grossPay    = val1;
-     savingsRate = val2;
-     iraRate   = val3;
+     grossPay     = val1;
+     savingsRate  = val2;
+     iraRate      = val3;
    } // End ZacharyStall_2_09)Calc(double val1, double val2, double val3
    
    // ****************************************************************
