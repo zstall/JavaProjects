@@ -52,9 +52,9 @@ public class ZacharyStall_2_02 {
       System.out.println("Percentage invested in an IRA: " + iraPercent + "%");
       System.out.println("Amount of money transfered to savings: $" + saveAmount);
       System.out.println("Amount of money invested into an IRA: $" + iraAmount);
-      System.out.println("Total amount of money in savings and IRA is: $"
-         + investTotal);
-      System.out.println("\nZachary Stall");
+      System.out.printf("Total amount of money in savings and IRA is: $%.2f",
+         investTotal);
+      System.out.println("\n\nZachary Stall");
       
       //Close files and exit
       console.close();
